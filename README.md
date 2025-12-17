@@ -4,7 +4,7 @@ A responsive crypto-to-cash checkout flow built with Next.js, TypeScript, and Ta
 
 ## 🚀 Live Demo
 
-[View Live Demo](#) <!-- Add your Vercel/Netlify link here -->
+[View Live Demo](#https://crypto-ui-nu.vercel.app/) <!-- Add your Vercel/Netlify link here -->
 
 ## 📸 Screenshots
 
@@ -16,7 +16,7 @@ A responsive crypto-to-cash checkout flow built with Next.js, TypeScript, and Ta
 
 
 ### Mobile View
-<img width="379" height="756" alt="Screenshot 2025-12-17 at 1 24 15 PM" src="https://github.com/user-attachments/assets/0a1cf45b-c1ca-42c2-b0a7-a1682aa12a83" />
+<img width="379" height="756" alt="Screenshot 2025-12-17 at 1 24 15 PM" src="https://github.com/user-attachments/assets/0a1cf45b-c1ca-42c2-b0a7-a1682aa12a83" /> <br>
 <img width="373" height="541" alt="Screenshot 2025-12-17 at 2 10 23 PM" src="https://github.com/user-attachments/assets/cccfc5d0-cece-4e21-9e53-c2181a4f4d7b" />
 
 
@@ -72,7 +72,7 @@ A responsive crypto-to-cash checkout flow built with Next.js, TypeScript, and Ta
 
 1. Clone the repository
 ```bash
-git clone <your-repo-url>
+git clone <https://github.com/imranrkhan13/crypto-ui.git>
 cd crypto-checkout
 ```
 
