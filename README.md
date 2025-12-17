@@ -56,10 +56,10 @@ A responsive crypto-to-cash checkout flow built with Next.js, TypeScript, and Ta
 
 ## 📁 Project Structure
 
-```
+
 <img width="308" height="423" alt="Screenshot 2025-12-17 at 2 25 50 PM" src="https://github.com/user-attachments/assets/21c14200-b348-4730-8b0d-d3bbd65a6d46" />
 
-```
+
 
 ## 🚀 Getting Started
 
