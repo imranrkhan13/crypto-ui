@@ -4,8 +4,7 @@ A responsive crypto-to-cash checkout flow built with Next.js, TypeScript, and Ta
 
 ## 🚀 Live Demo
 
-[https://crypto-ui-nu.vercel.app/](#) <!-- Add your Vercel/Netlify link here -->
-
+https://crypto-ui-nu.vercel.app/
 ## 📸 Screenshots
 
 ### Desktop View
